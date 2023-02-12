@@ -1,0 +1,24 @@
+
+
+Best Python Packages.
+
+One of the packages I would like to learn is the package called pytorch,pytorch is described as a fully featured framework for building deep learning models.
+I would like to learn this package because The idea of image recognition is something that has always intrigued me, Also the description of a deep learning model piques my interest because of its ability to perform tasks directly from images, texts, or sounds at a level of accuracy that can exceed human performance.
+An example of pytorch performing tasks directly from the text would be its ability to process different languages, such as being used as a translator or even developing a chatbot.
+It's also noted as a package that most machine developers use because of how easy it is to learn, which as a beginner programmer package rates high on ease of use is a perk.
+	Another package I would like to learn about is called NumPy, this package Numpy is can be described as a python library that provides an assortment of routines for fast operations on a Huge scale.
+One of the main uses for NumPy is for its ability to do fast mathematical operations and the reason I would wanna download and learn this is that as one who struggles with math, it sounds like it could be helpful.
+Especially the fact that it can guarantee efficient calculations on a high-level scale is a huge bonus if we were doing something along the lines of data science.
+It's also described as being used on almost every data science or machine learning package, so learning something that's used in such a large quantity and as helpful as NumPy is of interest.
+	A package that I would also want to learn about is Matplotlib, this package is described as a cross-platform data visualization and graphical plotting library for python.
+This package is a Numerical extension to Numpy so I believe that learning both would greatly increase my programming knowledge and skills, also the fact that it can create interactive visualizations in python would be a benefit as I am more of a visual learner.
+An example of the visualization that it can do is create a plot, this would be very helpful in addition to NumPy because of its ability to visualize the data Numpy can produce.
+It can be very helpful in the field of data science or just the general visualization of data collected either through NumPy or some other form of data collection, it is also easy to get started with and the most extensively used plot library so its another package that learning would be of great benefit because of its vast impact.
+	Seaborn is another package that I would like to learn and is based on the previous package, it's described as a high-level interface for drawing informative statistical graphics.
+I would like to learn this because I feel it would be a good addition if we were learning matplotlib as well, seeing as it is used as a way to visualize random distributions and Matplot libs point is to visualize data on a plot these two seemingly coincide with one another.
+Its also used to prevent overlapping plots with matplotlib so using this would be helpful for us students as there are no overlapping data to get confused with, It would also be beneficial to learn because it supports high-level abstractions for multi-plot grids so if we became proficient with data science in the long term it would still be of use to use later.
+It also offers a simpler interface and is described as aesthetically better looking than mattplotlib, this would help as there wouldn't be a lot of clutter, and is easy to learn.
+	The last Package I would like to learn requests,Requests is described as an elegant and simple HTTP library.
+The reason I would like to learn this is that it makes making HTTP requests in python very simple, this makes it easy to interact with your application, which in turn makes it easier to learn and fix problems.
+It is also one of the most downloaded packages for the reasons stated above another example is the fact It takes away the process of manually adding query strings to URLs.
+It's also described as an integral part of python for making HTTP requests to specified URLs, so it sounds like something that may be necessary for our everyday coding which would be another beneficial reason to learn this package.
